@@ -9,6 +9,6 @@ Small games by Paragon Labs.
 
 **Poppalo: Balloon Pop 3D** — help Mama Pig defend her piglets from wolves
 floating down on balloons.
-[Privacy policy](/poppalo/privacy/)
+[Support](/poppalo/support/) · [Privacy policy](/poppalo/privacy/)
 
 Contact: paragonlabstech@outlook.com
